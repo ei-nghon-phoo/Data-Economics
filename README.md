@@ -1,4 +1,4 @@
-# README for Economics and Data Analytics Project
+# Economics and Data Analytics Project
 
 ## Project Overview
 
